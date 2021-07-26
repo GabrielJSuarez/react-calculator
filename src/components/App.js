@@ -8,7 +8,7 @@ function App() {
       <div className="App">
         Hello World!, This is a Heroku Test
       </div>
-      <Display />
+      <Display result="0" />
       <ButtonPanel />
     </>
   );
